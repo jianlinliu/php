@@ -1,3 +1,3 @@
 #!/bin/sh
-
-sleep 30
+echo "sleeping"
+sleep 1200
